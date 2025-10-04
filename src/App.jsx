@@ -303,7 +303,7 @@ function App() {
 
 
             </div>
-             <div class="bg-gradient-to-br from-[#11071F] to-[#38126D]  rounded p-8 border-t-4 border-[#693B93]">
+            <div class="bg-gradient-to-br from-[#11071F] to-[#38126D]  rounded p-8 border-t-4 border-[#693B93]">
 
 
               <div className="main flex gap-x-8">
@@ -319,7 +319,7 @@ function App() {
 
 
             </div>
-             <div class="bg-gradient-to-br from-[#11071F] to-[#38126D]  rounded p-8 border-t-4 border-[#693B93]">
+            <div class="bg-gradient-to-br from-[#11071F] to-[#38126D]  rounded p-8 border-t-4 border-[#693B93]">
 
 
               <div className="main flex gap-x-8">
@@ -335,6 +335,37 @@ function App() {
 
 
             </div>
+          </div>
+
+
+
+
+
+          <div className="text-white text-center leading-[31px] text-2xl Preahvihear  tracking-[2px] mt-[110px]">I'm currently looking to join a <span className='text-[#A362FF]'>cross-functional</span> team</div>
+          <div className="text-white text-center leading-[31px] text-[16px] Preahvihear tracking-[2px] mt-1.5 ]">that values improving people's lives through accessible design </div>
+
+
+          <div className="">
+            <img className='m-auto mt-8' src="/photos/Group 1959.png" alt="" />
+          </div>
+
+
+
+          <p className='text-center Preahvihear text-2xl text-white tracking-[2px] mt-[110px]'>Contact</p>
+          <p className='text-center mt-7 Preahvihear text-[14px] text-white tracking-[2px] '>I'm currently looking to join a cross-functional team that values improving people's lives <br /> through accessible design. or have a project in mind? Let's connect.
+          </p>
+
+
+          <p className='text-center mt-8'>
+            <a className=' mt-7 Preahvihear text-[12px] text-white tracking-[2px] ' href="alif.web.bd@gmail.com">alif.web.bd@gmail.com</a>
+          </p>
+
+
+          <div className="icon flex justify-center mb-[135px] gap-8  mt-8 text-white">
+            <a href="https://www.facebook.com/share/1BAVpmKEWs/"><img src="photos/Vector.png" alt="" /></a>
+            <a href="https://www.instagram.com/md.alif258/#"><img src="photos/Vector (1).png" alt="" /></a>
+            <a href="https://github.com/alif258/"><img src="photos/Group 1960.png" alt="" /></a>
+            <a href="alif.web.bd@gmail.com"><img src="photos/Vector (3).png" alt="" /></a>
           </div>
 
 
